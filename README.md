@@ -22,9 +22,9 @@ In the current setup, a state is reached after 10-15 steps in which the agent is
 
 As can be seen in the following three images, mistakes are also still made that may prevent the goal.
 
-![Puzzle1 Drawings](Puzzle1.png)
-![Puzzle2 Drawings](Puzzle2.png)
-![Puzzle3 Drawings](Puzzle3.png)
+![Puzzle1 Drawings](images/Puzzle1.png)
+![Puzzle2 Drawings](images/Puzzle2.png)
+![Puzzle3 Drawings](images/Puzzle3.png)
 
 During the training the following values are achieved:
 
@@ -36,7 +36,7 @@ Episode 300	Average Score: -2467.80
 Episode 400	Average Score: -2642.08  
 Episode 500	Average Score: -2180.86  
 
-![Agent1 Scores](Figure_1.png)
+![Agent1 Scores](images/Figure_1.png)
 
 ### Agent2
 
@@ -46,7 +46,7 @@ Episode 300	Average Score: -2151.25
 Episode 400	Average Score: -1892.52  
 Episode 500	Average Score: -1214.48  
 
-![Agent2 Scores](Figure_2.png)
+![Agent2 Scores](images/Figure_2.png)
 
 ### Agent3
 
@@ -56,5 +56,5 @@ Episode 300	Average Score: -2688.90
 Episode 400	Average Score: -2788.20  
 Episode 500	Average Score: -2608.07  
 
-![Agent3 Scores](Figure_3.png)
+![Agent3 Scores](images/Figure_3.png)
 
